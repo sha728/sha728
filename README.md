@@ -32,7 +32,7 @@
 ### 📌 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [📚 Book Recommendation System](https://github.com/your-username/book-recommendation) | Combines collaborative filtering + NLP mood analysis | Python, ML, Streamlit |
+| [📚 Book Recommendation System](https://github.com/sha728/Book-Recommendation-System) | Combines collaborative filtering + NLP mood analysis | Python, ML, Streamlit |
 | [🔗 Blockchain-IoT Food Supply Chain](https://github.com/your-username/blockchain-iot-supplychain) | Secure food supply tracking using Blockchain + IoT | Solidity, MQTT, Python |
 | [⚡ DevOps CI/CD Pipeline](https://github.com/your-username/devops-pipeline) | Dockerized ML model deployment with GitHub Actions | Docker, GitHub Actions |
 
@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="top-langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sha728&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sha728&layout=compact&theme=radical" alt="top-langs" height="150"/>
 </p>
 
 ---
