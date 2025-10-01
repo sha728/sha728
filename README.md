@@ -1,7 +1,5 @@
 <!-- Banner or Hero Image -->
-<p align="center">
-  <img src="https://your-banner-image-link-here" alt="GitHub Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shahid Hussain</h1>
 <h3 align="center">💻 Passionate about Data Science | Machine Learning | DevOps | NLP</h3>
