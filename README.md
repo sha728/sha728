@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎯 I’m currently working on: **Book Recommendation System (with Mood-Based NLP)**
+- 🎯 I’m currently working on: **Career AI Agent (GenAI,NLP)**
 - 🌱 I’m learning: **Advanced Machine Learning, CI/CD, Generative AI**
 - 🤝 Open to collaborate on: **AI, Data Engineering, Cloud Projects**
 - ⚡ Fun fact: *I mix creativity with code — from ML models to poetry!*
@@ -31,7 +31,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [📚 Book Recommendation System](https://github.com/sha728/Book-Recommendation-System) | Combines collaborative filtering + NLP mood analysis | Python, ML, Streamlit |
-| [🔗 Blockchain-IoT Food Supply Chain](https://github.com/your-username/blockchain-iot-supplychain) | Secure food supply tracking using Blockchain + IoT | Solidity, MQTT, Python |
+| [🔗 Career AI Agent](https://github.com/sha728/Career-Ai-Agent) | AI-powered career guidance system using RAG for role matching, skill gap analysis, and personalized career recommendations | RAG, Python, NLP, LLMs |
 | [⚡ DevOps CI/CD Pipeline](https://github.com/your-username/devops-pipeline) | Dockerized ML model deployment with GitHub Actions | Docker, GitHub Actions |
 
 ---
@@ -52,7 +52,7 @@
   <a href="mailto:shahussain891@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shahid-s/" target="_blank">
+  <a href="https://shahid-portfolio-1.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
